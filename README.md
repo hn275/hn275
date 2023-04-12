@@ -3,8 +3,6 @@
 Full-time Computer Science student at University of Victoria. While
 not grinding the gears at school, I enjoy developing **full-stack applications**.
 
-- Currently I'm leading a team of 3 at [Collabify](https://collabify.space/).
-
 ## Languages
 - Go,
 - HTML/CSS/SCSS,

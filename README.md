@@ -20,3 +20,4 @@ not grinding the gears at school, I enjoy developing **full-stack applications**
 - React.js, Node.js, TailwindCSS.
 
 Email: <a href="mailto:haln_01@proton.me" target="_blank">haln_01@proton.me</a>
+Home: <a href="https://haln.dev">haln.dev</a>

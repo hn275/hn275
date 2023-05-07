@@ -3,6 +3,10 @@
 Full-time Computer Science student at University of Victoria. While
 not grinding the gears at school, I enjoy developing **full-stack applications**.
 
+Checkout some projects I've contributed!
+- [Collabify](https://collabify.space)
+- [StudySpaceFinder](https://studyspace.vikelabs.ca/)
+
 ## Languages
 - Go,
 - HTML/CSS/SCSS,

@@ -1,7 +1,8 @@
-> (Neo)Vim, keyboards, statically typed, Appa, yip yip
+> Appa, yip yip
 
-Full-time Computer Science student at University of Victoria. While
-not grinding the gears at school, I enjoy developing **full-stack applications**.
+Computer Science at University of Victoria.
+
+Software developer at [HeyNova](https://heynova.io/).
 
 Checkout some projects I've contributed!
 - [Collabify](https://collabify.space)

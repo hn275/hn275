@@ -2,8 +2,6 @@
 
 Computer Science at University of Victoria.
 
-Software developer at [HeyNova](https://heynova.io/).
-
 Checkout some projects I've contributed!
 - [Collabify](https://collabify.space)
 - [StudySpaceFinder](https://studyspace.vikelabs.ca/)

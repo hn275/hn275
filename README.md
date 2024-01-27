@@ -1,26 +1,11 @@
-> Appa, yip yip
-
-Computer Science at University of Victoria.
+Computer Science at University of Victoria, I like Linux, (Neo)Vim, FOSS, and keyboards!
 
 Checkout some projects I've contributed!
 - [Collabify](https://collabify.space)
 - [StudySpaceFinder](https://studyspace.vikelabs.ca/)
 
-## Languages
-- Go,
-- HTML/CSS/SCSS,
-- TS/JS,
-- Python,
-- Familiarity with Rust, C++, and Lua.
-
-## Skills
-- Git, Linux, CLI, Docker,
-- RESTful API, JSONWebToken, Authentication.
-- On the path to master all things HTTP related!
-
-## Stacks
-- SQLite3, PostgreSQL, MySQL, MongoDB,
-- React.js, Node.js, TailwindCSS.
+Go, HTML/CSS/SCSS, TS/JS, Python, Rust, C/C++, Lua.\
+Git, Linux, Docker, Networkings, Databases.
 
 Email: <a href="mailto:haln_01@proton.me" target="_blank">haln_01@proton.me</a>
 
